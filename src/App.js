@@ -5,11 +5,11 @@ import Content from './components/Content'
 
 function App() {
   return (
-    <>
+    <div className='sm:bg-[#0F3486]'>
       <Navbar />
-      <Content className='sm:bg-[#F3F3F3]'/>
+      <Content />
       <Footer />
-    </>
+    </div>
   );
 }
 

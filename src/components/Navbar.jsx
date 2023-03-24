@@ -20,7 +20,7 @@ class Navbar extends Component {
             <>
                 <header className='sm:w-full sm:h-[61px] sm:bg-[#0F3486] sm:text-white sm:flex sm:flex-row sm:top-0 sm:py-2 sm:items-center md:h-max'>
                     
-                    <h1 className='sm:text-xl sm:font-bold sm:ml-2 sm:select-none'>Profile</h1>
+                    <h1 className='sm:text-xl lg:text-2xl sm:font-bold lg:font-medium sm:ml-2 lg:ml-4 sm:select-none'>Profile</h1>
 
                     <Navlink />
                 </header>
